@@ -12,6 +12,30 @@
 - อยู่ในช่วงวันที่ 1 มกราคม ถึง 31 มีนาคม 2026
 - เรียงข้อมูลจากวันที่ล่าสุดไปเก่าที่สุด
 
+## figma UI/UX Design: EMR Teaching Dashboard
+
+https://www.figma.com/make/xytXuiSHo5My2eaoWHrH6W/Material-Design-Ripple-Effect?t=f0o2E3fhQ2wN4kY9-1
+UI/UX Design: EMR Teaching Dashboard
+
+หน้าจอ EMR Teaching Dashboard ถูกออกแบบเพื่อรองรับการใช้งานในห้องตรวจของโรงพยาบาลมหาวิทยาลัย โดยรองรับทั้งอาจารย์แพทย์และนักศึกษาแพทย์ในหน้าจอเดียว
+
+โครงสร้างหน้าจอ (Layout Structure)
+
+Patient Profile
+แสดงข้อมูลสำคัญของผู้ป่วย เช่น ชื่อ อายุ HN และโรคประจำตัว
+
+Visit Timeline
+แสดงประวัติการเข้ารับบริการย้อนหลังตามลำดับเวลา
+
+Student Medical Note
+สำหรับนักศึกษาแพทย์บันทึกข้อมูลเบื้องต้น
+
+Attending Doctor Panel
+สำหรับอาจารย์แพทย์ใช้วินิจฉัยและสั่งการรักษา
+
+Medication Alert System
+แจ้งเตือนการแพ้ยาและลดความผิดพลาดในการสั่งยา
+
 ###  SQL ที่ใช้
 
 ```sql
